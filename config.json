@@ -55,7 +55,7 @@
             "mode": "tls-rf",
             "wait_for_ack": false,
             "oob": false,
-            "map_to": "cf.witcorn.eu.org"
+            "map_to": "172.67.72.106"
         },
         "91.108.56.0/24;149.154.175.0/24;149.154.167.0/24": {
             "tls13_only": false,
@@ -626,7 +626,7 @@
             "mode": "tls-rf",
             "wait_for_ack": false,
             "oob": false,
-            "host": "cf.witcorn.eu.org"
+            "host": "172.67.72.106"
         },
         "*": {
             "tls13_only": false,
