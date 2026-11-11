@@ -586,7 +586,7 @@
             "mode": "tls-rf",
             "wait_for_ack": false,
             "oob": false,
-            "host": "38.207.191.87"
+            "host": "172.65.35.192"
         },
         "*telegram.(org|me);t.me": {
             "tls13_only": false,
@@ -665,3 +665,4 @@
             "host": "216.239.34.34"
         }
     }
+}
