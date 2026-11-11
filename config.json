@@ -89,7 +89,7 @@
             "num_segs": 4,
             "wait_for_ack": false,
             "oob": false
-        }，
+        },
         "172.65.35.192": {
             "mode": "tls-rf",
             "map_to": "172.65.35.192"
